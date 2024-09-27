@@ -19,7 +19,7 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-05
+publishDate: '2024-06-05'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
@@ -84,7 +84,7 @@ authors:
   - Guoliang Jin
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-01
+publishDate: '2022-10-01'
 
 # Publication name and optional abbreviated publication name.
 publication: In the 31st International Conference on Parallel Architectures and Compilation Techniques 
@@ -104,7 +104,7 @@ authors:
   - Guoliang Jin
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01
+publishDate: '2022-05-01'
 
 # Publication name and optional abbreviated publication name.
 publication: In the 2022 Mining Software Repositories Conference
@@ -125,7 +125,7 @@ authors:
   - Chongyu Wang
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-05-27
+publishDate: '2020-05-27'
 
 # Publication name and optional abbreviated publication name.
 publication: In the 34th IEEE International Parallel and Distributed Processing Symposium
@@ -145,7 +145,7 @@ authors:
   - David A. bader
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-05-29
+publishDate: '2017-05-29'
 
 # Publication name and optional abbreviated publication name.
 publication: In the  31th IEEE International Parallel and Distributed Processing Symposium Workshops 
