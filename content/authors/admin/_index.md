@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 4th-year CS Ph.D student
+role: 4th-year Ph.D. student at
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -183,4 +183,4 @@ education:
 
 ## About Me
 
-I am a Ph.D student in the Department of Computer Science at the North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). I am broadly interested in improving the performance and efficiency of computer systems. My recent research focus on optimizing the ML application performance on the sharing GPU-enabled serverless computing systems. 
+I am a Ph.D. student in the Department of Computer Science at the North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). I am broadly interested in improving the performance and efficiency of computer systems. My recent research focus on optimizing the ML application performance on the sharing GPU-enabled serverless computing systems. 
