@@ -48,7 +48,7 @@ organizations:
 
 interests:
   - Serverless Computing
-  - ML system
+  - ML systems
   - Cloud Computing
 
 education:
@@ -183,4 +183,4 @@ education:
 
 ## About Me
 
-I am a Ph.D. student in the Department of Computer Science at the North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). I am broadly interested in improving the performance and efficiency of computer systems. My recent research focus on optimizing the ML application performance on the sharing GPU-enabled serverless computing systems. 
+I am a Ph.D. student in the Department of Computer Science at the North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). I am broadly interested in improving the performance and efficiency of ML systems. My recent research focus on optimizing performance and effiency of the ML application on single- and multi-GPUs at serverless computing systems.
