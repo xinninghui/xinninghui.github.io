@@ -52,7 +52,7 @@ interests:
   - Performance of ML
 
 education:
-  - area: Ph.D. in Computer System
+  - area: Ph.D. of Computer Science, 2021-
     institution: North Carolina State University
     date_start: 2021-08-17
     # date_end: present
@@ -61,7 +61,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MS in High Performance Computing
+  - area: MS of Computer Science,2015-2018
     institution: Tsinghua University
     date_start: 2015-08-25
     date_end: 2018-06-01
