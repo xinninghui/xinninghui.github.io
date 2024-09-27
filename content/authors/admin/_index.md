@@ -54,7 +54,7 @@ interests:
 education:
   - area: PhD Computer System
     institution: North Carolina State University
-    # date_start: 2016-01-01
+    date_start: 2021-08
     # date_end: 2020-12-31
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -63,8 +63,8 @@ education:
     #   url: 'https://example.com'
   - area: Master High Performance Computing
     institution: Tsinghua University
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
+    date_start: 2015-08
+    date_end: 2018-06
   #   summary: |
   #     GPA: 3.8/4.0
 
