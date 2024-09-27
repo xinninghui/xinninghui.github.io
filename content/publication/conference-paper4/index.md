@@ -14,7 +14,7 @@ publishDate: '2017-05-29'
 
 # Publication name and optional abbreviated publication name.
 publication: In the  31th IEEE International Parallel and Distributed Processing Symposium Workshops 
-publication_short: In IPDPSW17
+publication_short: In **IPDPSW17**
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/7965146?casa_token=qpTpu1HcGfcAAAAA:W-QLi4lHN1qi4WE6elD2Y1LCyn9kw_hKTPGtSOwjz2_nqJzGg99IF-YtKmm9CqXH5KvYzv9j'
 

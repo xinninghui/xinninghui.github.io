@@ -15,7 +15,7 @@ publishDate: '2022-05-01'
 
 # Publication name and optional abbreviated publication name.
 publication: In the 2022 Mining Software Repositories Conference
-publication_short: In MSR22
+publication_short: In **MSR22**
 
 url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3524842.3528463?casa_token=IWnOsd2E7kMAAAAA:CsLt4NYo7a_kATupyffJnEjZWHG7de_M1asSlLRoyUeKypxz_Z1pEX8e3U-u6jv6BE_RLaTfDe3q'
 
