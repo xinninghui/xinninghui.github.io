@@ -29,9 +29,9 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-# profiles:
-#   - icon: at-symbol
-#     url: 'xhui@ncsu.edu'
+profiles:
+  - icon: at-symbol
+    url: 'xhui@ncsu.edu'
 #     label: E-mail Me
 #   # - icon: brands/x
 #   #   url: https://twitter.com/GetResearchDev
@@ -39,10 +39,10 @@ organizations:
 #   #   url: https://www.instagram.com/
 #   - icon: brands/github
 #     url: https://github.com/gcushen
-#   - icon: brands/linkedin
-#     url: https://www.linkedin.com/in/xinning-hui-9a3b2b99/
-#   - icon: academicons/google-scholar
-#     url: https://scholar.google.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/xinning-hui-9a3b2b99/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=VUNp228AAAAJ&hl=en&authuser=2&oi=ao
 #   - icon: academicons/orcid
 #     url: https://orcid.org/
 
