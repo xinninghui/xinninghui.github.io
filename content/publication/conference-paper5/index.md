@@ -1,24 +1,22 @@
 ---
-
-title: 'A Deep Study of the Effects and Fixes of Server‑Side Request Races in Web Applications'
+title: 'When Good Enough Is Better: Energy‑Aware Scheduling for Multicore Servers'
 
 authors:
-  - Zhengyi Qiu
-  - Shudi Shao
-  - Qi Zhao
-  - HassanAli Khan
   - admin
-  - Guoliang Jin
+  - Zhihui Du
+  - Jason Liu
+  - Hongyang Sun
+  - Yuxiong He
+  - David A. bader
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01'
+publishDate: '2017-05-29'
 
 # Publication name and optional abbreviated publication name.
-# publication: In the 2022 Mining Software Repositories Conference
-publication_short: The 2022 Mining Software Repositories Conference, **MSR22**
+# publication: In the  31th IEEE International Parallel and Distributed Processing Symposium Workshops 
+publication_short: The  31th IEEE International Parallel and Distributed Processing Symposium Workshops, **IPDPSW17**
 
-url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3524842.3528463?casa_token=IWnOsd2E7kMAAAAA:CsLt4NYo7a_kATupyffJnEjZWHG7de_M1asSlLRoyUeKypxz_Z1pEX8e3U-u6jv6BE_RLaTfDe3q'
-
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/7965146?casa_token=qpTpu1HcGfcAAAAA:W-QLi4lHN1qi4WE6elD2Y1LCyn9kw_hKTPGtSOwjz2_nqJzGg99IF-YtKmm9CqXH5KvYzv9j'
 
 ---
 

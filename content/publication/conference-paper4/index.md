@@ -1,22 +1,24 @@
 ---
-title: 'When Good Enough Is Better: Energy‑Aware Scheduling for Multicore Servers'
+
+title: 'Inter‑Job Scheduling of High‑Throughput Material Screening Applications'
 
 authors:
-  - admin
   - Zhihui Du
+  - admin
+  - Yurui Wang
+  - Jun Jiang
   - Jason Liu
-  - Hongyang Sun
-  - Yuxiong He
-  - David A. bader
+  - Baokun Lu
+  - Chongyu Wang
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-05-29'
+publishDate: '2020-05-27'
 
 # Publication name and optional abbreviated publication name.
-# publication: In the  31th IEEE International Parallel and Distributed Processing Symposium Workshops 
-publication_short: The  31th IEEE International Parallel and Distributed Processing Symposium Workshops, **IPDPSW17**
+publication: In the 34th IEEE International Parallel and Distributed Processing Symposium
+publication_short: (First student author). The 34th IEEE International Parallel and Distributed Processing Symposium, **IPDPS20**
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/7965146?casa_token=qpTpu1HcGfcAAAAA:W-QLi4lHN1qi4WE6elD2Y1LCyn9kw_hKTPGtSOwjz2_nqJzGg99IF-YtKmm9CqXH5KvYzv9j'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9139773&casa_token=SRv0vCCgGrgAAAAA:nMNK0DAZdfrKtWE6rHIN3qk0DzpAZzajna2cdRLPRXHcPAJz1L8f6Or0_3XOw9IICKP6dis1&tag=1'
 
 ---
 
