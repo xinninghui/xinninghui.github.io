@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   # mode: system
-  color: sky
+  color: custom
+  custom_css: "../assets/css/custom.css" # Link to your custom CSS file
 
 # SEO
 marketing:
