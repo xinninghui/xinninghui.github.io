@@ -1,28 +1,28 @@
 ---
 
-title: 'Inter‑Job Scheduling of High‑Throughput Material Screening Applications'
+title: 'A Deep Study of the Effects and Fixes of Server‑Side Request Races in Web Applications'
 
 authors:
-  - Zhihui Du
+  - Zhengyi Qiu
+  - Shudi Shao
+  - Qi Zhao
+  - HassanAli Khan
   - admin
-  - Yurui Wang
-  - Jun Jiang
-  - Jason Liu
-  - Baokun Lu
-  - Chongyu Wang
+  - Guoliang Jin
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-05-27'
+publishDate: '2022-05-01'
 
 # Publication name and optional abbreviated publication name.
-publication: In the 34th IEEE International Parallel and Distributed Processing Symposium
-publication_short: (First student author). The 34th IEEE International Parallel and Distributed Processing Symposium, **IPDPS20**
+# publication: In the 2022 Mining Software Repositories Conference
+publication_short: The 2022 Mining Software Repositories Conference, **MSR22**
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9139773&casa_token=SRv0vCCgGrgAAAAA:nMNK0DAZdfrKtWE6rHIN3qk0DzpAZzajna2cdRLPRXHcPAJz1L8f6Or0_3XOw9IICKP6dis1&tag=1'
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3524842.3528463?casa_token=IWnOsd2E7kMAAAAA:CsLt4NYo7a_kATupyffJnEjZWHG7de_M1asSlLRoyUeKypxz_Z1pEX8e3U-u6jv6BE_RLaTfDe3q'
+
 
 ---
-
-<!-- {{% callout note %}}
+<!-- 
+{{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 

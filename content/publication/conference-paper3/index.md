@@ -1,28 +1,27 @@
 ---
 
-title: 'A Deep Study of the Effects and Fixes of Server‑Side Request Races in Web Applications'
+title: 'Understanding and Reaching the Performance Limit of Schedule Tuning on Stable Synchronization Determinism'
 
 authors:
+  - Qi Zhao
   - Zhengyi Qiu
   - Shudi Shao
-  - Qi Zhao
-  - HassanAli Khan
   - admin
+  - HassanAli Khan
   - Guoliang Jin
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01'
+publishDate: '2022-10-01'
 
 # Publication name and optional abbreviated publication name.
-# publication: In the 2022 Mining Software Repositories Conference
-publication_short: The 2022 Mining Software Repositories Conference, **MSR22**
+# publication: In the 31st International Conference on Parallel Architectures and Compilation Techniques 
+publication_short: The 31st International Conference on Parallel Architectures and Compilation Techniques, **PACT22**
 
-url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3524842.3528463?casa_token=IWnOsd2E7kMAAAAA:CsLt4NYo7a_kATupyffJnEjZWHG7de_M1asSlLRoyUeKypxz_Z1pEX8e3U-u6jv6BE_RLaTfDe3q'
-
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3559009.3569669?casa_token=ItF7QQtdv3cAAAAA:VoyUB-cam2uOOaN-aOzBqZo5ezq9hxQxnBsED2lko-FOBdsFd_G5WMmgF8ajcWbU79-BrnHEC1wX'
 
 ---
-<!-- 
-{{% callout note %}}
+
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
