@@ -1,5 +1,5 @@
 ---
-title: 'Exploring Function Granularity for Serverless Machine Learning Applications with GPU Sharing'
+title: 'Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -18,12 +18,12 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-06-09'
+publishDate: '2024-06-09'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 # publication: In Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing
-publication_short: ACM SIGMETRICS 2025, **SIGMETRICS25**. (acceptance rate **15/113=13.27%**)
+publication_short: ACM SIGMETRICS 2025, **SIGMETRICS25**. (acceptance rate **15/113=13%**)
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -41,7 +41,7 @@ publication_short: ACM SIGMETRICS 2025, **SIGMETRICS25**. (acceptance rate **15/
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3625549.3658657?casa_token=TuUfVt2huJQAAAAA:uuFj1zsHHv1WqCECU4V5wKtANhnrizdzzuGGVD_mJ1B2c-oMiBK_zpuT4eUSLpA5jef3tut8PnTS'
+# url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3625549.3658657?casa_token=TuUfVt2huJQAAAAA:uuFj1zsHHv1WqCECU4V5wKtANhnrizdzzuGGVD_mJ1B2c-oMiBK_zpuT4eUSLpA5jef3tut8PnTS'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
