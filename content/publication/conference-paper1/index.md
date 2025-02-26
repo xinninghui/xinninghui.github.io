@@ -41,7 +41,7 @@ publication_short: ACM SIGMETRICS 2025, **SIGMETRICS25**. (acceptance rate **15/
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3625549.3658657?casa_token=TuUfVt2huJQAAAAA:uuFj1zsHHv1WqCECU4V5wKtANhnrizdzzuGGVD_mJ1B2c-oMiBK_zpuT4eUSLpA5jef3tut8PnTS'
+url_pdf: 'https://drive.google.com/file/d/126cnPGlCY8AAavRqTZ1AWmS_kFKry-Os/view?usp=sharing'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
