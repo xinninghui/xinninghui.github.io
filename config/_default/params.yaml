@@ -6,8 +6,8 @@
 # Appearance
 appearance:
   # mode: system
-  color: custom
-  custom_css: "../assets/css/custom.css" # Link to your custom CSS file
+  color: light
+  # custom_css: "../assets/css/custom.css" # Link to your custom CSS file
 
 # SEO
 marketing:
