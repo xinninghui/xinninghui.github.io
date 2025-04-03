@@ -1,5 +1,5 @@
 ---
-title: 'Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing'
+title: '  Exploring Function Granularity for Serverless Machine Learning Application with GPU Sharing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
