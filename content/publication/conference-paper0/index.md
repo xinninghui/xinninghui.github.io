@@ -1,5 +1,5 @@
 ---
-title: '  Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations'
+title: 'Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,6 +9,7 @@ authors:
   - admin
   - Chunhua Liao
   - Xipeng Shen
+  -   
 
 # Author notes (optional)
 # author_notes:
