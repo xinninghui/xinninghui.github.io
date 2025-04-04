@@ -41,7 +41,7 @@ publication_short: The 34rd International Symposium on High-Performance Parallel
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3711699'
+# url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3711699'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
