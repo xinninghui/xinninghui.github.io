@@ -18,7 +18,7 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-01-02'
+publishDate: '2025-01-03'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
